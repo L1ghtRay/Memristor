@@ -105,8 +105,8 @@ Neuromorphic computing involves designing hardware and software that emulate the
 
 ## Key Components in the Brain
 
-1. *Neurons*: The brain's basic processing units, analogous to nodes in a computing network.
-2. *Synapses*: Connections between neurons, where information transfer and learning occur. Synapses can strengthen or weaken based on activity, similar to how memristors change their resistance.
+1. **Neurons**: The brain's basic processing units, analogous to nodes in a computing network.
+2. **Synapses**: Connections between neurons, where information transfer and learning occur. Synapses can strengthen or weaken based on activity, similar to how memristors change their resistance.
 
 # How Crossbar Array Memristors Mimic the Brain
 
