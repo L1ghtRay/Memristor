@@ -6,8 +6,8 @@ A memristor is a special type of electrical component that has a memory of past 
 
 A typical memristor is made up of two layers of materials sandwiched between two electrodes:
 
-1. *Electrodes*: These are like the terminals of a battery, where electricity enters and exits the memristor.
-2. *Active Layer*: This is the material between the electrodes that changes its properties based on the electric charge that has passed through it. Often, this material is a type of metal oxide, like titanium dioxide (TiO₂).
+1. **Electrodes**: These are like the terminals of a battery, where electricity enters and exits the memristor.
+2. **Active Layer**: This is the material between the electrodes that changes its properties based on the electric charge that has passed through it. Often, this material is a type of metal oxide, like titanium dioxide (TiO₂).
 
 ## How Does a Memristor Work?
 
